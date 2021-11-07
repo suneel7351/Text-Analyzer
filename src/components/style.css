@@ -1,0 +1,51 @@
+#first {
+  background-color: #134b5f;
+  border-radius: 50%;
+  padding: 5px;
+}
+#second {
+  background-color: #6c25be;
+  border-radius: 50%;
+  padding: 5px;
+}
+#third {
+  background-color: #be4d25;
+  border-radius: 50%;
+  padding: 5px;
+}
+#fourth {
+  background-color: #96be25;
+  border-radius: 50%;
+  padding: 5px;
+}
+#fifth {
+  background-color: #0b2d39;
+  margin-left: 2px;
+}
+#textArea {
+  height: 300px;
+}
+.badge {
+  display: inline-block;
+  min-width: 10px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #777;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.instruction {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: glyphicons halflings;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+}
